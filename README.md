@@ -9,8 +9,8 @@ cybersecurity
 
 <div>
   <a href="https://github.com/IcaroFilipeD2">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=IcaroFilipeD2&theme=midnight-purple&show_icons=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroFilipeD2&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroFilipeD2&theme=midnight-purple&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroFilipeD2&layout=compact&theme=midnight-purple"/>
 </div>
 
 <div style="border: 2px solid red"><br>
